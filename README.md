@@ -7,3 +7,4 @@ Gonna learn some cool stuff
 - git pull
 - git push
 - git clone
+- git push
