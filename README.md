@@ -8,3 +8,6 @@ Gonna learn some cool stuff!!!!!!!!!!!!!!!!
 - git push
 - git clone
 - git push
+
+## Kool stuff
+- branching
