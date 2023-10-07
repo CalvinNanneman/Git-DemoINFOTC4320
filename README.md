@@ -1,10 +1,13 @@
 # Git Demo: Calvin Nanneman
 
 
-Gonna learn some cool stuff
+Gonna learn some cool stuff!!!!!!!!!!!!!!!!
 
 ## Topics
 - git pull
 - git push
 - git clone
 - git push
+
+## Kool stuff
+- branching
